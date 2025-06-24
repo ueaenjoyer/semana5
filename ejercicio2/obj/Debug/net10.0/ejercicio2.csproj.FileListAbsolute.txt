@@ -1,0 +1,14 @@
+C:\Users\Paul\csharp\semana5\ejercicio2\bin\Debug\net10.0\ejercicio2.exe
+C:\Users\Paul\csharp\semana5\ejercicio2\bin\Debug\net10.0\ejercicio2.deps.json
+C:\Users\Paul\csharp\semana5\ejercicio2\bin\Debug\net10.0\ejercicio2.runtimeconfig.json
+C:\Users\Paul\csharp\semana5\ejercicio2\bin\Debug\net10.0\ejercicio2.dll
+C:\Users\Paul\csharp\semana5\ejercicio2\bin\Debug\net10.0\ejercicio2.pdb
+C:\Users\Paul\csharp\semana5\ejercicio2\obj\Debug\net10.0\ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\csharp\semana5\ejercicio2\obj\Debug\net10.0\ejercicio2.AssemblyInfoInputs.cache
+C:\Users\Paul\csharp\semana5\ejercicio2\obj\Debug\net10.0\ejercicio2.AssemblyInfo.cs
+C:\Users\Paul\csharp\semana5\ejercicio2\obj\Debug\net10.0\ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Paul\csharp\semana5\ejercicio2\obj\Debug\net10.0\ejercicio2.dll
+C:\Users\Paul\csharp\semana5\ejercicio2\obj\Debug\net10.0\refint\ejercicio2.dll
+C:\Users\Paul\csharp\semana5\ejercicio2\obj\Debug\net10.0\ejercicio2.pdb
+C:\Users\Paul\csharp\semana5\ejercicio2\obj\Debug\net10.0\ejercicio2.genruntimeconfig.cache
+C:\Users\Paul\csharp\semana5\ejercicio2\obj\Debug\net10.0\ref\ejercicio2.dll
